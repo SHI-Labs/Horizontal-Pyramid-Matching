@@ -1,1 +1,1 @@
-# HPM
+# Horizontal Pyramid Matching for Person Re-identification
